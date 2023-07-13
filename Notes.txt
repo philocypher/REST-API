@@ -1,0 +1,16 @@
+Username  |  Password -|- Role -|- Auth token.
+---
+Admin     API@LL123 - SuperUser-    796960c47055857ad32acb67c0441a0c2df00db2
+___
+alice     API@LL123 - manager       948f4e25713c6dd81fd4d9a04d344c9370ff57a8
+adam      API@LL123 - manager       559a0233e3deceba4f5470516784fd6f608b35fa
+___
+adin      API@LL123 - delivery_crew   aaf244278e3735656f9aa867ea2e80e3b8df1741
+sophie    API@LL123 - delivery_crew   84119a0e3c570f388a87b7f4a739ab9704ddd8aa
+___
+hannah    API@LL123 - customer -    621c929e4cbe44bd7ee7f2503446ab1171a772d9
+
+allen     API@LL123 - customer  -   d6b5e1803216a9cf76bd043466be448497ba85ae
+
+lena      API@LL123 - customer -    93243e5c9cf5da00b857be5fd3be6dea8b086534
+	
