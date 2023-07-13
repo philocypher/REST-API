@@ -1,4 +1,4 @@
-# REST-API
+# REST-API Project (Restuarant management)
 # Run these commands:
 * $ pipenv shell
 * $ pipenv install 
