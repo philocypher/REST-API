@@ -108,19 +108,19 @@ HTTP/1.1 200 OK
       "id": 1,
       "name": "Pizza",
       "price": 10.00,
-      "description": "A delicious pizza with pepperoni, sausage, mushrooms, and onions."
+      "category": "Italian"
     },
     {
       "id": 2,
-      "name": "Salad",
+      "name": "shawarma",
       "price": 5.00,
-      "description": "A healthy salad with lettuce, tomatoes, cucumbers, and carrots."
+      "category": "Middle eastern"
     },
     {
       "id": 3,
       "name": "Burger",
       "price": 7.00,
-      "description": "A juicy burger with cheese, lettuce, tomato, and onion."
+      "category": "Western"
     }
   ]
 }
