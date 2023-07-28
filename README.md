@@ -3,6 +3,7 @@
 * $ pipenv shell
 * $ pipenv install 
 * $ python manage.py runserver
+
 **API endpoints**
 
 This document describes all the required API routes for the food delivery app project. The endpoints are grouped into several categories:
