@@ -91,6 +91,8 @@ HTTP/1.1 201 Created
 * **Response to login:**
   ```
   POST `/token/login/`
+  
+  HTTP/1.1 200 OK
    {
      "token":"generated-oken-to-use-when-sending-requests"
    }
