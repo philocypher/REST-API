@@ -86,10 +86,15 @@ HTTP/1.1 201 Created
 {
   "id": 1,
   "username": "johndoe",
-  "email": "johndoe@example.com",
-  "token": "some-random-token"
 }
 ```
+* **Response to login:**
+  ```
+  POST `/token/login/`
+   {
+     "token":"generated-oken-to-use-when-sending-requests"
+   }
+  ```
 
 * **Request to get all menu items:**
 
