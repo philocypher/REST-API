@@ -1,4 +1,4 @@
-# REST-API Project (Restuarant management)
+## REST-API Project (Restuarant management)
 
 #### Run these commands to make a python virtual environment for the project's dependencies:
 * $ pipenv shell
